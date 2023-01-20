@@ -1,4 +1,4 @@
-### Hello!
+# Hello!
 ## About me
 I'm a student at Mittuniversitetet. I'm currently learning php and databases. 
 
