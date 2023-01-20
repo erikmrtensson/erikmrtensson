@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+## About me
+I'm a student at Mittuniversitetet. I'm currently learning php and databases. 
 
 <!--
 **erikmrtensson/erikmrtensson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
