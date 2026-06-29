@@ -24,7 +24,7 @@ Junior full stack developer with a degree in Computer Engineering (Mittuniversit
 ### The Artist's Portfolio *(thesis)*
 `Next.js` `ASP.NET Core` `C#` `PostgreSQL` `Azure` `TypeScript` `Three.js`
 
-Full-stack cloud platform commissioned for a professional artist. Public-facing site built in Next.js with Three.js for interactive 3D visualization; admin interface in ASP.NET Core MVC. Backend in C# with Entity Framework Core and PostgreSQL; assets stored in Azure Blob Storage. Originally deployed end-to-end on Azure — a frontend-only demo is live on Vercel.
+Full-stack cloud platform commissioned for a professional artist. Public-facing site built in Next.js with Three.js for interactive 3D visualization; admin interface in ASP.NET Core MVC. Backend in C# with Entity Framework Core and PostgreSQL; assets stored in Azure Blob Storage. Originally deployed end-to-end on Azure. A frontend-only demo is live on Vercel.
 
 ### Game: *Sunset Inferno* *(personal)*
 `Unity` `C#` `Blender`
