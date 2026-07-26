@@ -29,7 +29,7 @@ Full-stack cloud platform commissioned for a professional artist. Public-facing 
 ### Game: *Sunset Inferno* *(personal)*
 `Unity` `C#` `Blender`
 
-Unity game built from scratch and implementing assets from the Unity Asset Store. 3D modeling in Blender and gameplay systems written in C#. A project where I've pushed deep into object-oriented design, state management, and debugging under real constraints.
+Unity game built from scratch and implementing assets from the Unity Asset Store. 3D modeling in Blender and gameplay systems written in C#. A project where I've pushed deep into object-oriented design, state management, and debugging.
 
 ---
 
