@@ -5,7 +5,7 @@
 
 ---
 
-Junior full stack developer with a degree in Computer Engineering (Mittuniversitetet, 2025) and a background in fullstack .NET/React development. Previously spent a decade in time-critical logistics, which shaped how I think about reliability, documentation, and accountability in code.
+Junior full stack developer with a degree in Computer Engineering (Mittuniversitetet, 2025).
 
 ---
 
